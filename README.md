@@ -1,5 +1,5 @@
 ## This is my personal blogging Website.
-##Tool & Technology:
+<h3>Tool & Technology:<h3>
 <p>Django,sqlite,html,bootstrap</p>
-##Live link:
+<h3>Live link:<h3>
 http://aamizanblog.pythonanywhere.com/
